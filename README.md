@@ -37,6 +37,7 @@ ECommerce-Project/
 
 ## 🚀 Live Demo
 https://ahmedshalaby03.github.io/ECommerce-Project
-
+## 🚀 Google Sheet
+https://docs.google.com/spreadsheets/d/1ZOheumAu9aqsWwPWJUoVuxzoiD0XE5m3Wqi_FfuyXRQ/edit?usp=sharing
 ## 👨‍💻 Author
 **Ahmed Saeed Shalaby**
